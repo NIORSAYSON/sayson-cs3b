@@ -2,7 +2,7 @@
 
 by: Nestor B.Sayson Jr.
 
-[My Published app](https://didactic-palm-tree-rqpjp65j9v935pqr-8501.app.github.dev/)
+[My Published app](https://sayson-cs3b-oqs4euj81hh.streamlit.app/)
 
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
